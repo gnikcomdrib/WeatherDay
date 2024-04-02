@@ -2,9 +2,9 @@
 
 A weather app created using Swift and SwiftUI.
 
-<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/35f46b47-6195-4bfe-be9c-410ee4dcd782">
-<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/f3180ecd-c21f-4920-8dcf-e68cf747f5f4">
-<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/64bc5d8e-b016-43bf-9ce1-f53a6b4e9667">
+<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/1a74202d-5e2c-4056-bbd3-1349b45e4483">
+<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/278aadba-e05d-43d2-bf41-ab1a52e8a7dc">
+<img width="277" alt="main" src="https://github.com/lzncz/WeatherDay/assets/95938206/e4c7056e-d144-40a5-a292-67f2aa341469">
 
 ## Features
 
